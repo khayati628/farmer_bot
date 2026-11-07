@@ -27,7 +27,7 @@ An AI-powered chatbot that helps farmers with weather-based advice, local news, 
 ├── Agents.py
 ├── farmer_bot_ui.py    # Streamlit web app
 ├── chat_agent.py       # Terminal version of the chatbot
-├── .env                # Your API keys (do not share or upload)
+├── .env                # create your own (to store API keys)
 ├── requirements.txt
 └── README.md
 ```
